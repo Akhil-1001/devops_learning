@@ -1,0 +1,30 @@
+1.introduction to aws
+2.iam(identity and access management)
+3.ec2 instances
+4.aws networking(vpc)
+5.aws security
+6.aws route 53
+7.secure vpc setup with ec2 instances(project)
+8.aws interview questions on ec2,iam,vpc
+9.amazon s3
+10.aws cli
+11.aws cloudformation
+12.aws codecommit
+13.aws codepipeline
+14.aws codebuild
+15.aws codedeploy
+16.aws cloudwatch
+17.aws lambda
+18.aws cloudwatch events and event bridge
+19.aws cloudfront
+20.aws ecr(elastic container registry)
+21.aws ecs(elastic container service)
+22.aws eks(elastic kubernetes service)
+23.aws system manager
+24.creating infrastructre using terraform
+25.aws cloudtrail and config
+26.aws elastic load balancer
+27.500 aws interview questions and answers topic wise for interview
+28.aws cloud migration strategies and tools
+29.aws best practices and job preparation
+30.aws project with rds
