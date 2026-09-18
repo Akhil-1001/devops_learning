@@ -1,0 +1,5 @@
+1.people have to buy servers for their work which is very cost effective.
+2.virtulization-splitting actual server into virtual environments(single vm called as ec2 instance)
+3.u can buy servers in cloud(while system adminstrators do all server work)
+4.private cloud-only limited to some organization they want to give access to
+5.public cloud-anyone can have access to buy servers(aws,gcp,azure)
